@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -11,6 +12,10 @@
 ## Description
 
 The To-Do List App is a simple yet powerful task management application that helps you keep track of your tasks and stay organized. It's built using Webpack, TypeScript, and Tailwind CSS.
+
+## Demo
+
+https://github.com/Mo7ammadAbuSafat/ToDoList-TypeScript/assets/103439731/ed654ea0-18fa-4b96-b05b-0e9bbaec8276
 
 ## Technologies Used
 
